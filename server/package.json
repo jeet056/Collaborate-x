@@ -1,5 +1,5 @@
 {
-	"name": "Collaborate X",
+	"name": "collaborate-x-server",
 	"version": "1.0.0",
 	"description": "",
 	"main": "dist/server.js",
