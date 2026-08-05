@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "ignoreDeprecations": "6.0",
         "target": "ES2020",
         "useDefineForClassFields": true,
         "lib": ["ESNext", "DOM", "DOM.Iterable"],
@@ -8,7 +9,7 @@
         "types": ["vite/client"],
 
         /* Bundler mode */
-        "moduleResolution": "Node",
+        "moduleResolution": "bundler",
         "allowImportingTsExtensions": true,
         "resolveJsonModule": true,
         "isolatedModules": true,
