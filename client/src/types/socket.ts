@@ -32,4 +32,4 @@ interface SocketContext {
     socket: Socket
 }
 
-export { SocketEvent, SocketContext, SocketId }
+export type { SocketEvent, SocketContext, SocketId }
