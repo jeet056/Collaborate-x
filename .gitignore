@@ -1,2 +1,17 @@
 start.bat
 TODO.md
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+**/dist/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
